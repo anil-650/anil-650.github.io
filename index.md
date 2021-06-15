@@ -2,6 +2,6 @@
 
 <html>
 	<body>
-		<h1>MyFirst heading</h1>
+		<h1>My First heading</h1>
 	</body>
 </html>
